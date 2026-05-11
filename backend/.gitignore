@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments (if ever used)
+.venv/
+.env/
+
+# ML / vector index artifacts
+index.faiss
+centroids.npy
+*.npy
+
+
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
