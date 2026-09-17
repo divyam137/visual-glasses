@@ -114,7 +114,7 @@ The system was evaluated by running every product image as a query against the c
 
 This means the correct product almost always appears as the top result.
 
-writing something new is fun
+writing something new is no fun mabe
 
 
 
